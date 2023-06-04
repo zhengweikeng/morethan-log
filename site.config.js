@@ -10,7 +10,6 @@ const CONFIG = {
     github: "zhengweikeng",
     instagram: "seed_zz",
   },
-  projects: [],
   // blog setting (required)
   blog: {
     title: "Seed",
