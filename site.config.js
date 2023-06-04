@@ -17,7 +17,7 @@ const CONFIG = {
   blog: {
     title: "Seed",
     description: "welcome to Seed Blog!",
-    theme: "auto", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
