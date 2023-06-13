@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://morethan-log.vercel.app</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/docs</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/hot-to-make-sitemap-in-next-js</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/apollo-gettings-started-mutate</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/apollo-gettings-started-query</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/resume</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about-graphql</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/how-to-apply-ga-to-next.js</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about-opensource-license</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about</loc><lastmod>2023-05-02T10:47:49.616Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/some-thinking-from-podcast-about-Edison</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/listen-the-song-Remember-again</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/about</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/config-my-dev-env</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/popularize-file-name-of-film</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/grpc-under-the-hood</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/build-my-big-house-network</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/get-to-know-http2</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/what-is-and-how-to-use-grpc-go</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/go-interface</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://blog.seedzz.top/go-context</loc><lastmod>2023-06-13T02:41:48.719Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
